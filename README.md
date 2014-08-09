@@ -6,6 +6,8 @@ I know it is a new start for who love cv technology in videos processing and enc
 So i decided to give ffmpeg document translation at first step, and then other useful works will
 be done.
 Details works arrangement as follows:
+ 
+
 1)Document translation.
 
 2)Source codes analysis.
