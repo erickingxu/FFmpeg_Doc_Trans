@@ -19,6 +19,6 @@ Details works arrangement as follows:
 Ps:
     Please keep your codes and any commits in UTF-8 format, it will give me less mess work to gether your commits.
 
-
 Thanks from EK.
+
 8/7/2014 GuangZhou.
